@@ -42,7 +42,7 @@ void Pytanie::zadaj()
     cout << b << endl;
     cout << c << endl;
     cout << d << endl;
-    cout << "------------------------" << endl;
+    cout << "--------------------------" << endl;
     cout << endl << "Odpowiedz: ";
     cin >> odpowiedz;
 }
